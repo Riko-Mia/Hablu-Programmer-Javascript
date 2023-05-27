@@ -66,7 +66,38 @@
 // 1st Assignment - 1:37:10
 
 
+// Conditional Statement - 1:41:00
 
+// let a= 2, b = 5
+// if(a> b){
+//     console.log('A is gater than B')
+// } else{
+//     console.log('B is gater than A')
+
+// }
+
+
+// Else Statement - 1:53:50
+
+// if(0 > 1){
+//     console.log('hello world')
+// } else{
+//     console.log('hello world 2')
+// }
+
+
+// else if statement - 2:2:00
+
+// let x = 10, y = 10
+// if(x > y){
+//     console.log( 'x is smaller y')
+// } else if(x < y){
+//     console.log('y is bigger x')
+// } else{
+//     console.log( 'x is similar y')
+// }
+
+// next start 2:15:35
 
 
 
